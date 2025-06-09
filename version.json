@@ -1,4 +1,4 @@
 {
   "version": "2.0.0",
-  "changelog": "v2.0.0 - Major Update\n- Added automatic update checking system\n- Completely simplified interface - removed quantity inputs and Buy All checkboxes\n- Now automatically buys ALL available seeds when selected (no manual quantity setting needed)\n- Improved seed layout with 3-column display for better space usage\n- Streamlined buying process with optimized purchase logic\n- Cleaner, more user-friendly interface\n- All core automation features maintained"
+  "changelog": "Major Update: Added auto-update checking and simplified Buy All interface. Now automatically purchases ALL selected seeds without manual quantity input."
 }
