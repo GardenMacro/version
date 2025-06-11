@@ -1,0 +1,13 @@
+{
+  "seeds": [
+    "Carrot", "Strawberry", "Blueberry", "Orange tulip", "Tomato",
+    "Corn", "Daffodil", "Watermelon", "Pumpkin", "Apple",
+    "Bamboo", "Coconut", "Cactus", "Dragon fruit", "Mango",
+    "Grape", "Mushroom", "Pepper", "Cacao", "Beanstalk", "Ember Lilly"
+  ],
+  "gear": [
+    "Watering Can", "Trowel", "Recall Wrench", "Basic Sprinkler", "Advanced Sprinkler",
+    "Godly Sprinkler", "Lightning Rod", "Master Sprinkler", "Favorite Tool", 
+    "Harvest Tool", "Friendship Pot"
+  ]
+}
