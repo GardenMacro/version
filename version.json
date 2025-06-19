@@ -1,4 +1,6 @@
 {
-  "version": "3.0.0",
-  "changelog": "Dynamic Seed Loading: Seeds now load automatically from server instead of hardcoded list. Supports real-time updates without requiring new downloads. Improved error handling for network connectivity."
+  "version": "4.0.0",
+  "changelog": "Added Gear Macro, Added monthly premium key authentication"
+
+
 }
