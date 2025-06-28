@@ -1,9 +1,9 @@
 {
   "seeds": [
     "Carrot", "Strawberry", "Blueberry", "Tomato",
-    "Cauliflower", "Watermelon", "Green Apple", "Avocado",
+    "Cauliflower", "Watermelon","Rafflesia", "Green Apple", "Avocado",
     "Banana", "Pineapple", "Kiwi", "Bell Pepper", "Prickly Pear",
-    "Loquat", "Feijoa","Sugar Apple"
+    "Loquat", "Feijoa", "Pitcher Plant", "Sugar Apple"
   ],
   "gear": [
     "Watering Can", "Trowel", "Recall Wrench", "Basic Sprinkler", "Advanced Sprinkler",
