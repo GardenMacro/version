@@ -8,6 +8,12 @@
   "gear": [
     "Watering Can", "Trowel", "Recall Wrench", "Basic Sprinkler", "Advanced Sprinkler", "Medium Toy", "Medium Treat",
     "Godly Sprinkler","Magnifying glass","Tanning Mirror", "Master Sprinkler", "Cleaning Spray", "Favorite Tool", 
-    "Harvest Tool", "Friendship Pot", "Levelup Lollipop",
+    "Harvest Tool", "Friendship Pot", "Levelup Lollipop"
+  ],
+  "eggs": [
+    "Common Egg", "Rare Egg", "Epic Egg", "Legendary Egg", "Mythic Egg",
+    "Dragon Egg", "Phoenix Egg", "Crystal Egg", "Shadow Egg", "Light Egg",
+    "Fire Egg", "Ice Egg", "Nature Egg", "Thunder Egg", "Cosmic Egg",
+    "Golden Egg", "Silver Egg", "Diamond Egg", "Rainbow Egg", "Void Egg"
   ]
 }
