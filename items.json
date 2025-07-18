@@ -11,9 +11,7 @@
     "Harvest Tool", "Friendship Pot", "Levelup Lollipop"
   ],
   "eggs": [
-    "Common Egg", "Rare Egg", "Epic Egg", "Legendary Egg", "Mythic Egg",
-    "Dragon Egg", "Phoenix Egg", "Crystal Egg", "Shadow Egg", "Light Egg",
-    "Fire Egg", "Ice Egg", "Nature Egg", "Thunder Egg", "Cosmic Egg",
-    "Golden Egg", "Silver Egg", "Diamond Egg", "Rainbow Egg", "Void Egg"
+    "Common Egg", "Common Summer Egg", "Rare Egg", "Rare Summer Egg", "Mythical Egg", "Paradise Egg", "Bug Egg",
+    
   ]
 }
