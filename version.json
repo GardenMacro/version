@@ -1,6 +1,4 @@
 {
-  "version": "5.0.0",
-  "changelog": "Egg Macro added!!!"
-
-
+  "version": "6.0.0",
+  "changelog": "Egg Macro now runs in the main loop"
 }
